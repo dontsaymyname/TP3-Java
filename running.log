@@ -1,0 +1,9 @@
+14:25:40.294 [main] INFO  org.example.App - Iniciou
+14:25:43.045 [main] DEBUG org.example.App - Comprimento do lado do quadrado: 1
+14:25:43.046 [main] INFO  org.example.App - Terminou
+14:26:51.893 [main] INFO  org.example.App - Iniciou
+14:26:53.803 [main] DEBUG org.example.App - Comprimento do lado do quadrado: 0
+14:26:53.804 [main] ERROR org.example.App - Um valor inválido foi inserido. O quadrado não poderá existir.
+14:28:16.600 [main] INFO  org.example.App - Iniciou
+14:28:19.108 [main] DEBUG org.example.App - Comprimento do lado do quadrado: 4
+14:28:19.110 [main] INFO  org.example.App - Terminou
